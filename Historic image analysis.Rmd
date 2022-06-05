@@ -1,0 +1,61 @@
+---
+title: "Historic Image Analysis"
+author: "Jesmond Calleja"
+date: '2022-05-04'
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+
+```
+
+[**St John's Parochial School, Trigonometrical Survey**](https://archives.cityofsydney.nsw.gov.au/nodes/view/1709326)
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2002/Images/St%20John's%20School%20and%20Church,%20Trigonometrical%20Survey,%201855-1865.jpeg) **Trigonometrical Survey of Darlinghurst showing St John's School Parochial and St John's Anglican Church in the study area, 1865.**
+
+The Trigonometrical Survey of Darlinghurst is a detailed view of a larger map of Sydney's urban layout. Drawn in 1865, this is the first map in existence that shows the initial geographical boundaries of the school and church. The buildings have been colour coded, indicating the materials used in their construction; the school and church are beige for stone masonry. This stone was quarried from the nearby sandstone ridge that divided the wealthy from the poor people. This map is also of interest to the local community as it shows buildings that have since been demolished, historical names of streets that are still in existence today and changes to street formations.
+
+[**First St John's Parochial School and St John's Anglican Church**](https://search.records.nsw.gov.au/primo-explore/fulldisplay?docid=ADLIB_RNSW115645767&context=L&vid=61SRA&lang=en_US&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,st%20john%27s%20church%20darlinghurst&offset=0)
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2002/Images/St%20Johns%20School%20and%20Church,%20Darlinghurst,%20Sydney.jpeg) **Photographer Unknown. The first St John's Parochial School (left) and St John's Anglican Church, circa 1866 - 1875.**
+
+This image shows the first St John's Parochial School and St John's Anglican Church. The school is a modest single-storey building built in 1851 and demolished in 1903 to make way for a much larger teaching institution. Of considerable interest in this image is that the church was built from 1856 to 1866, but its spires were not added until 1875. This dates the photograph to circa 1866 to 1875. Both buildings are constructed from locally quarried sandstone and are typical of the type of construction during this time. The surrounding environment is still barren as Darlinghurst was still in its developmental stage.
+
+[**Slate writing materials**](https://heritagensw.intersearch.com.au/heritagenswjspui/bitstream/1/10604/1/118aDarlinghurstExcavation_Report_Final%20200206.pdf.pdf)
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2002/Images/Slate%20writing%20materials.jpeg) **Cosmos Archaeology Pty Ltd. Victorian period slate writing materials, excavated from the site of St John's Parochial School, stratigraphic layers 1851-1960s. Courtesy Cosmos Archaeology Pty Ltd.**
+
+This image depicts slate-writing materials recovered from the archaeological excavation of the school. While all of the artefacts in this image are sherds, photographic scale rulers can be seen in the foreground, indicating the sizes of the objects. The appearance of these artefacts throughout the archaeological record suggests that they were used in the school for teaching purposes. They were excavated from multiple stratigraphic layers demonstrating that usage was throughout both phases of the school's existence. Production of slate-writing materials spanned from 1770 to 1900 (Davies 2005). Some of these objects were also excavated in the upper layers of the archaeological contexts. This indicates that they were still used at this school until the 1960s. While they are regarded as unhygienic, their constant use throughout the school's history sheds light on the socio-demographics of the community and that the students were mainly from a lower class working society.
+
+[**The Sentimental Bloke**](https://www.imdb.com/title/tt0010680/mediaviewer/rm1996915713/?ref_=tt_ov_i)
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2002/Images/The%20Sentimental%20Bloke.jpeg) **Photographer Unknown. Movie still from The Sentimental Bloke, directed by Raymond Longford, 1919.**
+
+Mr W Anderson was appointed Headmaster of the school around the late 1890s. Anderson was passionate about the arts. His vision was to introduce this subject to his students, hoping they would refrain from wasting their spare time roaming the streets and getting into trouble with the law. His love of the theatre was equally shared with the students, and theatre studies became the most popular subject taught at the school. It was so prevalent that the school became known as the place to study if you wanted to become an actor. Students became famous performers in musical comedy, while many others found their direction in silent movies. Perhaps the most famous student was Raymond Longford, who became a writer and director. He was known for many movies, including directing the 1919 classic movie The Sentimental Bloke. This film was shot on location in Woolloomooloo and Darlinghurst. Longford's contribution to Australian cinema was acknowledged many decades later in two ways. Firstly, the Longford Lyell (he married silent actress Lottie Lyell) award was instituted in 1968 and presented annually as a lifetime achievement award. Secondly, the National Film and Sound Archive digitally remastered The Sentimental Bloke. It was premiered with a live orchestra in 2022 at the Westpac Open Air cinema on Sydney Harbour in Woolloomooloo.
+
+[**Second St John's Parochial School and St John's Anglican Church**](https://www.commongrace.org.au/st_johns_darlinghurst_sydney)
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2002/Images/Aerial%20shot%20of%20St%20John's%20School%20and%20Church,%20Darlinghurst.jpeg) **Photographer Unknown. Aerial shot of the second St John's Parochial School and St John's Anglican Church, Darlinghurst, 1950-1966.**
+
+This aerial image depicts the second school (left of the picture) built in 1903, with the adjacent church and rectory in the foreground. This building was constructed with bricks and consisted of a two-storey building with the ground floor accommodating 400 students. The first floor comprised a large parish hall that could easily seat 500 people. This building was built when the school was thriving and had high enrolments. This was also when the school and church were thriving institutions, known for their compassionate services in welcoming people who needed refuge and were experiencing poverty and homelessness.The photograph is taken from Darlinghurst Road facing east. In the background is Victoria St with Surrey St at the T-junction. Most of the buildings along Victoria St are still extant and date from the early 1900s to the 1940s. The presence and models of the motor vehicles enable the image to be dated to the late 1950-early 1960s. The school was demolished in 1966.
+
+[**Rough Edges**](https://infrasolgroup.com.au/blog/rough-edges-2019)
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2002/Images/Rough%20Edges.jpeg) **Photographer Unknown. Drop-in centre Rough Edges. 2019. Courtesy Rough Edges.**
+
+The services provided for those in need kept growing, and this extended to those who had complex mental issues, drug and alcohol problems, and people suffering abuse from domestic violence. In wanting to provide a unique facility where people could take respite, the church converted and renovated some property at the back of the rectory. The drop-in centre Rough Edges was eventually opened in 1992. Still thriving today as a well-known institution in Darlinghurst, the centre's exterior walls are colourful and have been painted with striking murals displaying some of Darlinghurst's iconic structures, including the Church.
+
+[**HammondCare Darlinghurst**](https://infrasolgroup.com.au/blog/rough-edges-2019)
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2002/Images/HammondCare%20Darlinghurst.jpeg) **Taylor Constructions. HammondCare Darlinghurst, 2020. Courtesy Taylor Constructions.**
+
+After nearly 50 years in operation, the church decided to renew the lease to Caltex no longer. The church decided that the site should return to its roots and be used to help those most vulnerable members of the community. HammondCare Darlinghurst now has a long-term lease on the school's site. Before the building's construction and after the demolition of the service station, the church contracted Cosmos Archaeology Pty Ltd to excavate the site. There have never been any scholarly articles written about this school, so this archaeological excavation was a welcome relief, adding another layer to the history of Darlinghurst. HammondCare eventually built its 5-storey building, which was completed in 2020. The unique facility provides permanent accommodation with health-care services for 42 older homeless Darlinghurst residents.
+
+[**Darlo Darlings**](https://www.facebook.com/groups/932287413612046/?ref=pages_group_cta)
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2002/Images/Darlo%20Darlings.jpeg) **Mike Galvin. Darlo Darlings, 2022. Courtesy Mike Galvin.**
+
+Darlo Darlings is a Facebook group dedicated to the local suburbs of Darlinghurst and neighbouring Surry Hills. Both share the postcode 2010. This group has over 7,900 members and provides a supportive and non-judgemental platform where people can discuss and post items relating to the neighbourhood. These posts range from historical articles to current contemporary news. Darlo Darlings has become an essential platform for the local community. Along with other local community walking tours, Darlo Darlings has expressed a keen interest in the findings of this research as it will be the first time that a study of this type has been undertaken.

@@ -1,0 +1,43 @@
+---
+title: "References"
+author: "Jesmond Calleja"
+date: '2022-05-30'
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Broughton, G. (2020). [A practical theology of# stayathome](https://researchoutput.csu.edu.au/ws/portalfiles/portal/125717495/95039273_Published_article.pdf) St Mark's Review (253):38--49. [Accessed 16 May 2022]
+
+Common Grace. (n.d.). [St John's Darlinghurst Sydney](https://www.commongrace.org.au/st_johns_darlinghurst_sydney). [Accessed 1 May 2022].
+
+Coroneos, C. (2020). [St John's Parochial School-118a Darlinghurst Road, Darlinghurst, Sydney, NSW-Archaeological Excavation and Monitoring - November 2017 to March 2018 -Excavation Report-Prepared for HammondCare](https://heritagensw.intersearch.com.au/heritagenswjspui/bitstream/1/10604/1/118aDarlinghurstExcavation_Report_Final%20200206.pdf.pdf). [Accessed 20 March 2022].
+
+Davies, P. (2005). "Writing slates and schooling". Australasian Historical Archaeology 23(2005):63--69.
+
+Egan, P. (2008). Serving the Cross. St John's East Sydney; a short history. Elizabeth Bay, Paul Egan.
+
+MacDonnell, F. (1967). Before Kings Cross. Australia, Nelson.
+
+Nowra, L. (2013). Kings Cross: A Biography. Sydney, University of New South Wales Press.
+
+Nowra, L. (2017). Woolloomooloo. Sydney, University of New South Wales Press.
+
+NSW Lands Department. (1968). Parish of Alexandria, County of Cumberland. Regional Charting Map; NSW Land & Property Information.
+
+Reade, E. (1970). Australian Silent Films: A Pictorial History of Silent Films from 1896 to 1929. Melbourne, Lansdowne Press Pty Ltd.
+
+Sunday Times. (5 February 1928). [Actress are made at St John's School Darlinghurst](http://nla.gov.au/nla.news-article122804477). [Accessed 6 April 2022].
+
+The Sydney Morning Herald. (23 May 1851). [Church and School at Darlinghurst](http://trove.nla.gov.au/newspaper/article/12927329). [Accessed 24June 2022].
+
+The Sydney Morning Herald. (26 January 1883). [Public and Denominational Schools](http://trove.nla.gov.au/newspaper/article/13516819). [Accessed 26 June 2022].
+
+Thompson, B.G. (2007). [The city a place of the spirit](https://newcastleanglican.org.au/wp-content/uploads/2015/05/bishop-greg-the-city-a-place-of-the-spirit.pdf) [Accessed 16 May 2022]
+
+Wasson, M.J. (n.d.). [Longford, Raymond John Walter Hollis (1878--1959)](https://adb.anu.edu.au/biography/longford-raymond-john-walter-hollis-7226#), in Australian Dictionary of Biography. [Accessed 6 April 2022].

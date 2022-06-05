@@ -1,0 +1,29 @@
+---
+title: "Discussion and conclusions"
+author: "Jesmond Calleja"
+date: '2022-06-01'
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Research into the archaeological and historical evidence from St John's Parochial School and associated sites has shed considerable light on the social status of the Darlinghurst local community spanning 170 years. The field of humanities and its pathway into the digital arena has significantly contributed to this research project. The findings in this report are a consequence of applying these tools to creating, manipulating and curating data and images. This was accomplished following the principles of FAIR research data: where data is findable, accessible, interoperable and reusable, supporting scholarly research and innovation. This research project has been a complex study. While scholarly articles are few, and historical and archaeological evidence is minimal, digital humanities tools have created a corridor allowing this research to develop further in an engaging and thought-provoking manner.
+
+Ensuring that the dataset of the archaeological artefacts is in a standardised format has been critical for facilitating analytical analysis. Standardisation is essential because this process will allow data to convert to a useable machine format, thereby allowing further research, analysis, creating statistics, comparing, collaborating, and sharing. Using OpenRefine software was beneficial as it provided the tools to prepare data efficiently and quickly. Some of these functions included removing duplicates, clustering data, splitting and combing cell values.
+
+Standardising data has also been able to address the research question. Applying filtering techniques to the spreadsheet and functional analysis confirms that writing materials are one of the highest frequencies of artefacts found throughout the assemblage. The presence of these objects existing throughout all stratigraphic layers confirms this. Since the manufacture of these items ceased in 1920, this adds to the interpretation that the school educated children mainly from poor and working-class families.
+
+The open-source software Zotero provided a solution for integrating organised research while also acting as a repository for image management. Moreover, the system's powerful tool in extracting metadata from downloaded images and embedding this to parent records proved beneficial in organising image collections. This software is an innovative tool and will be able to preserve and share the images collated.
+
+The eight images are chosen explicitly in this curation to address the research question and communicate an evolving narration spanning 170 years. The story begins by reflecting on the archaeological site of St John's Parochial School, as this was the first building on the lot since the European invasion. The school and the adjacent church are compassionate establishments, providing education and helping the poorer and working-class community. This act has continued into modern times, as seen in centres such as Rough Edges and HammondCare.
+
+Homelessness, community and church have been reoccurring themes in this research project. Analysis of chosen articles by applying qualitative coding processes has explored social interactions while contributing to addressing the research topic. People have been at the core of conversations, and their day-to-day activities strengthen the importance of community and the lending of a helping hand. Shared meanings have been at the centre of the participants.
+
+Qualitative research has been fundamental to this topic as the data produced is people-focused. Their accounts of what they do, feel, and the actions generated have been a valuable aid in addressing this research topic. This research must continue well beyond the scope of this presentation as it is of interest to the Darlinghurst local community and focus groups.
+
+On a final note, the spatial-based digital tools have been a welcome addition to this research project. GIS (Global Information Systems) has allowed the transformation of an archaeological and historical based research project to be mapped out onto a contemporary platform. Not only has this added value to the research, but it will continue to do so as this research evolves.

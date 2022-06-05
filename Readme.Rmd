@@ -1,0 +1,37 @@
+---
+title: "Portfolio Task 03"
+author: "Jesmond Calleja"
+date: '2022-05-16'
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **Description of the dataset**
+
+Two articles have been chosen for this quantitative analysis corpus. Various themes were noted to be recurring subjects throughout the texts. Three, in particular, generated the highest percentage, and these were coded to homelessness, community and church. These articles throw significant light on this research project and can create a platform for further discussion.
+
+# **Dictionary of variables used**
+
+The table below provides a data dictionary of the definitions of the codes used in this analysis.
+
+| **Codes**      | **Definition**                                                                     |
+|-------------------|-----------------------------------------------------|
+| Church         | Impact of St John's Anglican Church on participants and authors                    |
+| Community      | The Darlinghurst community                                                         |
+| Crisis         | A period of difficulty or threat of danger                                         |
+| Homelessness   | A person who does not have permanent housing or is at risk of being without a home |
+| Mental illness | Disorders affecting a person's behaviour, mood and thinking                        |
+| Violence       | Behaviour where physical force is used to hurt someone intentionally               |
+| Theology       | Having religious beliefs                                                           |
+
+# **References**
+
+Broughton, G. (2020). "A practical theology of #stayathome." St Mark's Review 253: 38--49.
+
+Thompson, B.G. (2007). [**The city**](https://newcastleanglican.org.au/wp-content/uploads/2015/05/bishop-greg-the-city-a-place-of-the-spirit.pdf) [Accessed 16 May 2022]

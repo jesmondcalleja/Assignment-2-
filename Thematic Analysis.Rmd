@@ -1,0 +1,26 @@
+---
+title: "Thematic Analysis"
+author: "Jesmond Calleja"
+date: '2022-05-22'
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The themes of homelessness, community and church have been identified throughout the texts and assigned as codes in this corpus. All are inextricably linked and cannot be divorced from each other. Their analysis provides a deeper understanding of the historical functions of St John's Parochial School and St John's Anglican Church. The psyche of Darlinghurst ties into these functions as a unique suburb and community. The school was instrumental in providing a venue for educating students from a poor, working-class environment. Working in tandem with the neighbouring St John's Anglican Church, both institutions became iconic markers as safe places for these people.
+
+Homelessness is a broad subject, and the texts describe these in different contexts that include both aspects of daily and professional activities. The authors and participants referenced in the articles all agree that homelessness does not target a particular demographic or discriminate against a specific race. Instead, it stretches across a diverse population, from the young to the elderly. It includes those sleeping in rough circumstances to those in crises or even temporary accommodation.
+
+One of these people referenced in the material is the local Darlinghurst icon from the 2000s known as Radio John. Homelessness, community, and the church's spirit are embedded in John's personality. Broughton (2021) recalls him as 'a well-known and much loved character in the life at church and became one of my first - and most important - teachers from the street'. John was an advocator for helping those from the community who were doing it rough on the streets. His homelessness project focused on his life and the breath by which the Church's congregation abided. The interesting point from this analysis that is also a recurring theme spoken so well by John is that 'the human longing for home is not about a roof over the head, but about a place to belong' (Broughton 2021). The longing for home is something that Dorothy also reminded us of in The Wizard of Oz, and it's this same longing that all humans desire.
+
+The 2000 Sydney Olympic Games were challenging for the local homeless community. Broughton (2021) outlines that Games' were on the near horizon and people sleeping rough were under pressure as various levels of government made efforts to clean up the city'. As part of the government's initiative, the homeless were transported up to a 200kms radius from Sydney and housed in disused hospitals, buildings and caravan parks. This period was difficult for the Darlinghurst local community as many people appeared to have disappeared overnight.
+
+The community continues to be an area that is also heavily referenced throughout the text. This is not surprising because it is deeply etched in the history of Darlinghurst, from the early days of the school's activities to contemporary times. The community of Darlinghurst provides a source of belonging and connectivity that extends to other current local groups, including the Facebook group Darlo Darlings and the various walking tours around the area. Thompson (2017) outlines this to be 'particularly true in the experience of Rough Edges, a ministry of St John's Darlinghurst and its commitment to engage the street community on its doorstep'.
+
+When Rough Edges opened its doors in 1996, it stamped its feet as a welcoming drop-in centre for those in the community experiencing homelessness, poverty, and trauma from family and domestic violence. While not ranking high in the count, violence was also a code allocated to the themes and provides a critical junction to what constitutes Rough Edges as a holistic entity. Rough Edges characterises everything that is Darlinghurst, faith and the local community. Its relationship to St John's Church and the local community is undoubtedly a strong union. Thompson (2017) confirms this association by stating that 'my travels to various communities tell me that our churches engage and seek to offer such life. I found this to be particularly true in the experience of Rough Edges, a ministry of St John's Darlinghurst and its commitment to engaging the street community on its doorstep'.
+

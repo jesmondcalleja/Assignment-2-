@@ -1,0 +1,76 @@
+---
+title: "Research Design"
+author: "Jesmond Calleja"
+date: '2022-05-23'
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **Research design**
+
+## **Introduction**
+
+The archaeological site of St John's Parochial School in Darlinghurst is of local The local community of Darlinghurst is the study area for this research project. Darlinghurst is a suburb in New South Wales on the east coast of Australia (see Map 1). The suburb is situated on Gadigal land and is within the traditional grounds of the Eora people. The site is Lot 1 D.P. 225418, also known as 118a Darlinghurst Road.
+
+## **Background**
+
+The area's topography comprises sedimentary breccia with basalt dykes (Nowra 2017). Overlooking the valley is the ridge that looked over to the back of Woolloomooloo and Darlinghurst. This ridge was the dividing factor that determined class: the hill was claimed by the wealthy residents, while the valley beneath, where most people lived, was deemed a poorer, working-class society (MacDonell 1967). The latter is also the location of the study area and is a significant focus of this study.
+
+Early archival records show that the study site was initially dedicated to a proposed Church of England (NSW Lands Department 1968). It was not until 1851 that the church's foundation stone was laid (The Sydney Morning Herald 1851), which eventually became part of the school's building. The school was built, and teaching commenced in 1851. The church's extant foundation stone was ultimately laid in 1856, welcoming its first parishioners in 1858.
+
+Within 30 years after the opening of the school, its popularity was evident, and by the early 1880s, it boasted a staggering amount of 500 pupils enrolled (Egan 2008:19). The arts and theatrical studies became popular subjects. Historical and archival records also indicate that many become famous actors on stage and in silent cinemas despite the students' backgrounds (The Sydney Morning Herald 1928; Reade 1970). The school's status was further strengthened as it continued to function and strive even though government support and funding were discontinued (The Sydney Morning Herald 1883). Confidence in the school's future must have been strong because the original St John's School building was demolished and replaced with a new and larger brick building in 1903.
+
+The demographics of Darlinghurst were changing. During the first half of the twentieth century, the wealthier residents moved away from the city, and their monetary support for the church declined (Egan 2008:104). Furthermore, school enrolments started to decrease at an alarming rate. Even though the school's status had been raised to a grammar school, it failed to convert from an institution that served the poor working class to one that attracted students of wealthier families. Moreover, as running costs continued to escalate, the demand for private school education decreased, and the school became less viable as time progressed (Egan 2008:118).
+
+The school eventually closed its doors in December 1965 and was demolished the following year (Coromeos 2020:87). The site was officially leased to Caltex, which built a service station and car wash facility. This complex lasted for nearly 50 years. St. John's Church eventually negotiated a deal HammondCare to demolish the service station and construct a building that would house the ageing homeless people of the local area. The service station was eventually demolished in 2015, and HammondCare was built in 2018 (see Map 2).
+
+This research focuses on reviewing the archaeological, archival and historical records to see if there are any connections between the background of the school's students and the evolution of the social status of the local community over the last 170 years. The research will endeavour to reach out to the thriving local community through its many historical walking tours and online social media presence.
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2004/Map%20of%20Australia,%20Sydney.jpeg) **Map 1: Location of the city of Sydney, New South Wales, Australia.**
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2002/Images/Map%20of%20study%20area.jpeg) **Map 2: Darlinghurst showing study area and associated sites.**
+
+## **Methodology**
+
+### **Task 1**
+
+Cosmos Archaeology excavated the site of St John's Parochial School in 2017 and published an archaeological report in pdf format in 2020. Metadata of artefacts recovered during the excavation process was input manually onto a spreadsheet. The clerical artefacts are an integral component of this dataset as they contribute to the analysis and interpretation of this research design.
+
+The process of cleaning the spreadsheet was undertaken in various stages and included:
+
+1.  Some of the variables were renamed into simple and easy to understand terms.
+2.  A data dictionary was created outlining definitions for each variable. The prefix of SJPS was added to the unique identifying number. This ensures no confusion exists between the artefact numbering system and the number of the storage packing units.
+3.  Data was enhanced with the addition of stratigraphic layers.
+4.  Data validation and the creation of drop-down menus were used to apply standardisation processes to the datasets and to restrict the type of data entered into each cell.
+5.  A faceted classification system was applied to the dataset to narrow search results so that classifications can be analysed and ordered in taxonomic order.
+6.  OpenRefine application was incorporated and used for data clean-up and structuring the data into an editable format.
+
+The assemblage contained 561 archaeological artefacts, of which the MNE is 234. Cosmos Archaeology published an MNE of 232. This figure was double-checked on several occasions. A result of 242 was yielded at the end of each tabulation of this variable. This error was communicated to Cosmos Archaeology on 31 March, the error was noted, and the correct figure of 242 is used in this report.
+
+### **Task 2**
+
+Images were sourced from researching the web. In keeping with the theme of the research project, 12 keywords were used as criteria in the searching process: church, Darlinghurst, historic buildings, school, aged care, homelessness, dop-in centre, Victoria writing materials, trigonometrical survey, Sentimental Bloke and Woolloomooloo.
+
+Eighteen images were procured, and these were ultimately culled to eight. The images selected were specifically chosen as they communicate a story about the site, providing a bridge between historical and contemporary activities. The images were imported into Zotero using a parent-child hierarchy. The parent record contains full metadata and related tags, whereas the child record includes a copy of the downloaded image and research notes comprising initial and structured reflections. The dataset is included in this study and can be viewed as either .csv, xls or HTML files.
+
+### **Task 3**
+
+Unstructured and semi-structured text from articles relating to the Darlinghurst local community were chosen for qualitative coding and analysis. These texts contributed to data gathering so that themes could be structured and patterns analysed. In addition, informal interviews were conducted at two different sittings with Rev. Matt Paterson and Rector Matthew Wilcoxen, both from St John's Anglican Church. The former also was a Chaplain at Rough Edges. The interviews were conducted on 24 April and 27 April respectively.
+
+The open-source software Taguette was the primary tool used to conduct qualitative coding analysis. The articles that were uploaded to the software were in pdf format. Thematic analysis was undertaken, which helped examine the data and identify common themes. Three themes were repeatedly occurring, comprising 68% of the data. These were homelessness, community and church. While the interviews were not planned nor recorded, the major themes concluded were similar to those from the texts. These will, however, not be used in this analysis.
+
+Once the themes were identified, inductive qualitative coding was undertaken, which allowed the data extracts to be categorised. Codes were assigned, and grouping data of a similar type helped make the data more manageable for analysis. Some of the themes and codes were edited with subsequent readings. Coding the data proved extremely important as it helped create validity and ensured a systematic approach to analysis. This allows other researchers to assess it in a transparent and FAIR manner.
+
+### **Task 4**
+
+A map of Australia (map 1) showing the geographical location of Sydney was created using the open-source software QGIS. QGIS is a geographical information system that uses print layouts incorporating other features, including a legend, scale, compass, and labels.
+
+A good source for finding data is the national map website. Mainland was the key term used in the search field as the task was to produce a map of Australia. The URL of the search result for the chosen map was added as a new connection to the ArcGIS REST Servers, located in the Browser pane of QGIS. The map was then further manipulated so that extra features could be included. The final edited map was then used for this study.
+
+A second map (map 2) shows a detailed shot of the Darlinghurst study area. The significant features of this map illustrate the four buildings that constitute the focus of this research topic. These include the archaeological site of St John's Parochial School, now HammondCare, St John's Anglican Church, Rectory and Rough Edges.

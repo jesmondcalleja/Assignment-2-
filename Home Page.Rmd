@@ -1,0 +1,21 @@
+---
+title: "Home page"
+author: "Jesmond Calleja"
+date: '2022-05-23'
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# What can the archaeological and historical evidence from St John's Parochial School reveal about the students' socioeconomic status and the local community, and how can this information be used to educate a modern-day Darlinghurst community?
+
+![Alt text](~/Desktop/HINQ302/Assignment%202/Portfolio%20Task%2002/Images/Frederick%20Garling,%20View%20from%20Darlinghurst,%201835.jpeg) Frederick Garling, View from Darlinghurst, 1835. Collection State Library of New South Wales.
+
+## HINQ302 - Researching the past in the Digital Age
+
+[**Link to website**](https://github.com/jesmondcalleja/Assignment-2)

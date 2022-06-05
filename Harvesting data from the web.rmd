@@ -1,0 +1,31 @@
+---
+title: "Harvesting Data from the Web"
+author: "Jesmond Calleja"
+date: '2022-05-12'
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **Introduction**
+
+Cosmos Archaeology conducted an archaeological excavation of St John's Parochial School in 2017. The excavation undertaken responded to HammondCare's proposal to build a residential care facility for Darlinghurst's ageing homeless community. The dataset in this activity contains an assemblage of more than 180 artefacts excavated from the site of St John's Parochial School. Analysis of the clerical artefacts that comprise slate-writing materials is an essential component of this dataset. Their analysis contributes to addressing this research question.
+
+# **Results**
+
+The data was examined before commencing the cleaning process. Duplicates were removed, errors were fixed, 'null' was added to fields left blank, data validated, and a filtering mechanism was added. This was vital for conducting an analysis of the clerical artefacts.
+
+Configuring the dataset and analysing it by function has shed light on the social and economic factors of the site's activities. Removing the unknown category from the analysis, the assemblage comprised 77% of functional themes encompassing ten distinct groups. Figure 1 shows architectural (50%) and clerical (29%) artefacts were the most dominant categories. The clerical objects, which comprise writing pencils and slates, were educational tools used during the Victoria era. They went out of circulation in 1920 as they were classed as a health hazard (Davies 2005). These objects were also excavated from phases B and C, confirming their repeated use for teaching and educational purposes for at least one hundred years. Educational aids were evolving fast during this period, yet the school continued to use these items. Their continual use explores the interpretation that children attending the school were from poor and working-class social environments.
+
+The results from this dataset have only been possible because the data was cleaned, verified and validated. Ensuring that datasets are clean with metadata entered in a standardised format is a prerequisite when undertaking digital humanities projects. Inconsistent data is problematic, and this will prevent the research from advancing if not addressed during the early stages of the analysis.
+
+![](images/Function%20analysis.jpeg) **Figure 1 showing artefact functional analysis by percentage**
+
+# **References**
+
+Davies P. (2005). "Writing slates and schooling." Australasian Historical Archaeology 23(2005):63--69.
